@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//test.minulaboutique.com/wordpress/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<sitemap>
+		<loc>./post-sitemap.xml</loc>
+		<lastmod>2025-01-26T22:35:38+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>./page-sitemap.xml</loc>
+		<lastmod>2025-05-25T12:26:46+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>./ssp-form-sitemap.xml</loc>
+		<lastmod>2025-08-19T19:21:06+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>./portfolio-sitemap.xml</loc>
+		<lastmod>2021-03-12T23:31:18+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>./category-sitemap.xml</loc>
+		<lastmod>2025-01-26T22:35:38+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>./post_tag-sitemap.xml</loc>
+		<lastmod>2022-07-26T09:11:26+00:00</lastmod>
+	</sitemap>
+</sitemapindex>
