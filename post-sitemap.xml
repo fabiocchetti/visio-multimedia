@@ -1,203 +1,203 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//test.minulaboutique.com/wordpress/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>/2015/01/interstellar-tron-legacy-spettacolo/</loc>
+		<loc>https://visiomultimedia.com/2015/01/interstellar-tron-legacy-spettacolo/</loc>
 		<lastmod>2015-01-19T16:03:50+00:00</lastmod>
 		<image:image>
-			<image:loc>/content/uploads/2015/01/InterstellarPreview.jpg</image:loc>
+			<image:loc>https://visiomultimedia.com/content/uploads/2015/01/InterstellarPreview.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/2015/02/qual-e-il-miglior-browser-per-smartphone/</loc>
+		<loc>https://visiomultimedia.com/2015/02/qual-e-il-miglior-browser-per-smartphone/</loc>
 		<lastmod>2015-02-24T15:30:44+00:00</lastmod>
 		<image:image>
-			<image:loc>/content/uploads/2015/02/BrowserPreview.jpg</image:loc>
+			<image:loc>https://visiomultimedia.com/content/uploads/2015/02/BrowserPreview.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/content/uploads/2015/02/ChAndroid.png</image:loc>
+			<image:loc>https://visiomultimedia.com/content/uploads/2015/02/ChAndroid.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/content/uploads/2019/08/ClassificaBrowserAndroid.png</image:loc>
+			<image:loc>https://visiomultimedia.com/content/uploads/2019/08/ClassificaBrowserAndroid.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/content/uploads/2015/02/SafariIOS.png</image:loc>
+			<image:loc>https://visiomultimedia.com/content/uploads/2015/02/SafariIOS.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/content/uploads/2019/08/ClassificaBrowseriOS.png</image:loc>
+			<image:loc>https://visiomultimedia.com/content/uploads/2019/08/ClassificaBrowseriOS.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/2016/06/internal-server-error-wordpress-aruba/</loc>
+		<loc>https://visiomultimedia.com/2016/06/internal-server-error-wordpress-aruba/</loc>
 		<lastmod>2016-06-12T19:10:11+00:00</lastmod>
 		<image:image>
-			<image:loc>/content/uploads/2016/07/InternalServerErrorPreview.jpg</image:loc>
+			<image:loc>https://visiomultimedia.com/content/uploads/2016/07/InternalServerErrorPreview.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/content/uploads/2019/08/InternalServerError1.png</image:loc>
+			<image:loc>https://visiomultimedia.com/content/uploads/2019/08/InternalServerError1.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/content/uploads/2019/08/InternalServerError-2.png</image:loc>
+			<image:loc>https://visiomultimedia.com/content/uploads/2019/08/InternalServerError-2.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/content/uploads/2019/08/InternalServerError-3.png</image:loc>
+			<image:loc>https://visiomultimedia.com/content/uploads/2019/08/InternalServerError-3.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/2016/07/insetti-dentro-lo-schermo-come-rimuoverli/</loc>
+		<loc>https://visiomultimedia.com/2016/07/insetti-dentro-lo-schermo-come-rimuoverli/</loc>
 		<lastmod>2016-07-04T11:11:25+00:00</lastmod>
 		<image:image>
-			<image:loc>/content/uploads/2016/07/InsettiMonitorPreview.jpg</image:loc>
+			<image:loc>https://visiomultimedia.com/content/uploads/2016/07/InsettiMonitorPreview.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/content/uploads/2019/08/Untitled2.gif</image:loc>
+			<image:loc>https://visiomultimedia.com/content/uploads/2019/08/Untitled2.gif</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/2016/08/impossibile-trovare-file-system-mdw-come-risolvere/</loc>
+		<loc>https://visiomultimedia.com/2016/08/impossibile-trovare-file-system-mdw-come-risolvere/</loc>
 		<lastmod>2019-08-25T21:42:55+00:00</lastmod>
 		<image:image>
-			<image:loc>/content/uploads/2016/08/AccessRuntimePreview.jpg</image:loc>
+			<image:loc>https://visiomultimedia.com/content/uploads/2016/08/AccessRuntimePreview.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/content/uploads/2016/08/Office2000Runtime.png</image:loc>
+			<image:loc>https://visiomultimedia.com/content/uploads/2016/08/Office2000Runtime.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/2014/12/windows-8-1-e-scheda-video/</loc>
+		<loc>https://visiomultimedia.com/2014/12/windows-8-1-e-scheda-video/</loc>
 		<lastmod>2019-08-25T21:53:49+00:00</lastmod>
 		<image:image>
-			<image:loc>/content/uploads/2014/12/VGAPreview.jpg</image:loc>
+			<image:loc>https://visiomultimedia.com/content/uploads/2014/12/VGAPreview.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/content/uploads/2019/08/VGA1.png</image:loc>
+			<image:loc>https://visiomultimedia.com/content/uploads/2019/08/VGA1.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/content/uploads/2019/08/VGA2.png</image:loc>
+			<image:loc>https://visiomultimedia.com/content/uploads/2019/08/VGA2.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/content/uploads/2019/08/VGA3.png</image:loc>
+			<image:loc>https://visiomultimedia.com/content/uploads/2019/08/VGA3.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/2016/09/errore-elaborazione-del-terminale-di-linux-ubuntu/</loc>
+		<loc>https://visiomultimedia.com/2016/09/errore-elaborazione-del-terminale-di-linux-ubuntu/</loc>
 		<lastmod>2019-08-26T18:57:49+00:00</lastmod>
 		<image:image>
-			<image:loc>/content/uploads/2016/09/UbuntuRunitPreview.jpg</image:loc>
+			<image:loc>https://visiomultimedia.com/content/uploads/2016/09/UbuntuRunitPreview.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/content/uploads/2016/09/UbuntuRunit1.png</image:loc>
+			<image:loc>https://visiomultimedia.com/content/uploads/2016/09/UbuntuRunit1.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/2015/04/programmare-in-c-guida-rapida-con-esercizi-svolti/</loc>
+		<loc>https://visiomultimedia.com/2015/04/programmare-in-c-guida-rapida-con-esercizi-svolti/</loc>
 		<lastmod>2020-09-13T23:01:12+00:00</lastmod>
 		<image:image>
-			<image:loc>/content/uploads/2015/04/CPreview.jpg</image:loc>
+			<image:loc>https://visiomultimedia.com/content/uploads/2015/04/CPreview.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/2015/04/spunte-blu-whatsapp-iphone/</loc>
+		<loc>https://visiomultimedia.com/2015/04/spunte-blu-whatsapp-iphone/</loc>
 		<lastmod>2021-01-10T20:19:44+00:00</lastmod>
 		<image:image>
-			<image:loc>/content/uploads/2015/04/WhatsappSpunteBluPreview.jpg</image:loc>
+			<image:loc>https://visiomultimedia.com/content/uploads/2015/04/WhatsappSpunteBluPreview.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/content/uploads/2019/08/WhatsappSpunteBlu1.png</image:loc>
+			<image:loc>https://visiomultimedia.com/content/uploads/2019/08/WhatsappSpunteBlu1.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/2018/06/usi-mozilla-firefox-prova-la-mia-estensione-wide-github/</loc>
+		<loc>https://visiomultimedia.com/2018/06/usi-mozilla-firefox-prova-la-mia-estensione-wide-github/</loc>
 		<lastmod>2021-01-10T21:21:37+00:00</lastmod>
 		<image:image>
-			<image:loc>/content/uploads/2019/08/Wide-GitHub-Preview.jpg</image:loc>
+			<image:loc>https://visiomultimedia.com/content/uploads/2019/08/Wide-GitHub-Preview.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/content/uploads/2019/08/WideGitHub_LogoExpanded.png</image:loc>
+			<image:loc>https://visiomultimedia.com/content/uploads/2019/08/WideGitHub_LogoExpanded.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/content/uploads/2021/01/Wide-GitHub-2.png</image:loc>
+			<image:loc>https://visiomultimedia.com/content/uploads/2021/01/Wide-GitHub-2.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/2015/02/come-rimuovere-icona-del-gruppo-home-dal-desktop/</loc>
+		<loc>https://visiomultimedia.com/2015/02/come-rimuovere-icona-del-gruppo-home-dal-desktop/</loc>
 		<lastmod>2021-01-11T00:48:15+00:00</lastmod>
 		<image:image>
-			<image:loc>/content/uploads/2015/02/GruppoHome-Preview.jpg</image:loc>
+			<image:loc>https://visiomultimedia.com/content/uploads/2015/02/GruppoHome-Preview.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/content/uploads/2019/08/GruppoHome-1.png</image:loc>
+			<image:loc>https://visiomultimedia.com/content/uploads/2019/08/GruppoHome-1.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/content/uploads/2019/08/GruppoHome-2.png</image:loc>
+			<image:loc>https://visiomultimedia.com/content/uploads/2019/08/GruppoHome-2.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/content/uploads/2019/08/GruppoHome-3.png</image:loc>
+			<image:loc>https://visiomultimedia.com/content/uploads/2019/08/GruppoHome-3.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/2020/12/guida-hackintosh-come-installare-macos-su-pc/</loc>
+		<loc>https://visiomultimedia.com/2020/12/guida-hackintosh-come-installare-macos-su-pc/</loc>
 		<lastmod>2021-08-20T23:24:23+00:00</lastmod>
 		<image:image>
-			<image:loc>/content/uploads/2020/12/Come-installare-Hackintosh-MacOS-PC.png</image:loc>
+			<image:loc>https://visiomultimedia.com/content/uploads/2020/12/Come-installare-Hackintosh-MacOS-PC.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/content/uploads/2021/05/Screenshot.jpg</image:loc>
+			<image:loc>https://visiomultimedia.com/content/uploads/2021/05/Screenshot.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/2015/03/installare-eclipse-luna-su-windows-pc/</loc>
+		<loc>https://visiomultimedia.com/2015/03/installare-eclipse-luna-su-windows-pc/</loc>
 		<lastmod>2022-07-26T09:11:26+00:00</lastmod>
 		<image:image>
-			<image:loc>/content/uploads/2015/03/EclipsePreview.jpg</image:loc>
+			<image:loc>https://visiomultimedia.com/content/uploads/2015/03/EclipsePreview.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/content/uploads/2019/08/Eclipse1.png</image:loc>
+			<image:loc>https://visiomultimedia.com/content/uploads/2019/08/Eclipse1.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/content/uploads/2019/08/Eclipse2-1.png</image:loc>
+			<image:loc>https://visiomultimedia.com/content/uploads/2019/08/Eclipse2-1.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/content/uploads/2019/08/Eclipse3.png</image:loc>
+			<image:loc>https://visiomultimedia.com/content/uploads/2019/08/Eclipse3.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/content/uploads/2019/08/Eclipse4.png</image:loc>
+			<image:loc>https://visiomultimedia.com/content/uploads/2019/08/Eclipse4.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/content/uploads/2019/08/Eclipse5.png</image:loc>
+			<image:loc>https://visiomultimedia.com/content/uploads/2019/08/Eclipse5.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/content/uploads/2019/08/Eclipse6.png</image:loc>
+			<image:loc>https://visiomultimedia.com/content/uploads/2019/08/Eclipse6.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/content/uploads/2019/08/Eclipse7.png</image:loc>
+			<image:loc>https://visiomultimedia.com/content/uploads/2019/08/Eclipse7.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/content/uploads/2019/08/Eclipse9.png</image:loc>
+			<image:loc>https://visiomultimedia.com/content/uploads/2019/08/Eclipse9.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/2025/01/qual-e-il-miglior-browser-dell-anno/</loc>
+		<loc>https://visiomultimedia.com/2025/01/qual-e-il-miglior-browser-dell-anno/</loc>
 		<lastmod>2025-01-26T22:35:38+00:00</lastmod>
 		<image:image>
-			<image:loc>/content/uploads/2021/01/BrowserPreview.jpg</image:loc>
+			<image:loc>https://visiomultimedia.com/content/uploads/2021/01/BrowserPreview.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/content/uploads/2020/01/MozillaFirefox_Logo.png</image:loc>
+			<image:loc>https://visiomultimedia.com/content/uploads/2020/01/MozillaFirefox_Logo.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/content/uploads/2021/01/ClassificaBrowserWindows_VISIOmultimedia.png</image:loc>
+			<image:loc>https://visiomultimedia.com/content/uploads/2021/01/ClassificaBrowserWindows_VISIOmultimedia.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/content/uploads/2021/01/Safari_Logo.png</image:loc>
+			<image:loc>https://visiomultimedia.com/content/uploads/2021/01/Safari_Logo.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/content/uploads/2021/01/ClassificaBrowserMacOS_VISIOmultimedia.png</image:loc>
+			<image:loc>https://visiomultimedia.com/content/uploads/2021/01/ClassificaBrowserMacOS_VISIOmultimedia.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/content/uploads/2020/01/GoogleChrome_Logo.png</image:loc>
+			<image:loc>https://visiomultimedia.com/content/uploads/2020/01/GoogleChrome_Logo.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/content/uploads/2020/01/ClassificaBrowserLinux_VISIOmultimedia.png</image:loc>
+			<image:loc>https://visiomultimedia.com/content/uploads/2020/01/ClassificaBrowserLinux_VISIOmultimedia.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
