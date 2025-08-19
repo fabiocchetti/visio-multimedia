@@ -1,89 +1,89 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//test.minulaboutique.com/wordpress/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>/</loc>
+		<loc>./index.html</loc>
 		<lastmod>2025-01-26T22:36:56+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2021/06/VISIOmultimedia_Devices.png</image:loc>
+			<image:loc>./wp-content/uploads/2021/06/VISIOmultimedia_Devices.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2021/06/VISIOmultimedia_Devices.png</image:loc>
+			<image:loc>./wp-content/uploads/2021/06/VISIOmultimedia_Devices.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/privacy-policy/</loc>
+		<loc>./privacy-policy/index.html</loc>
 		<lastmod>2019-09-04T10:32:45+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2019/09/Hidden_Email.png</image:loc>
+			<image:loc>./wp-content/uploads/2019/09/Hidden_Email.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/portfolios/</loc>
+		<loc>./portfolios/index.html</loc>
 		<lastmod>2019-09-08T23:28:01+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2019/06/BREnergia_Logo.png</image:loc>
+			<image:loc>./wp-content/uploads/2019/06/BREnergia_Logo.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2019/03/MagicGol_Logo_White.png</image:loc>
+			<image:loc>./wp-content/uploads/2019/03/MagicGol_Logo_White.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2019/08/Kavo%CC%80_Logo.png</image:loc>
+			<image:loc>./wp-content/uploads/2019/08/Kavo%CC%80_Logo.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2019/08/ETC_re%CC%81Actif_Logo.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2019/08/ETC_re%CC%81Actif_Logo.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2019/08/FarmaciaPiazzaDiSpagna_Logo.png</image:loc>
+			<image:loc>./wp-content/uploads/2019/08/FarmaciaPiazzaDiSpagna_Logo.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2019/08/EnglishEspresso_Logo-1024x1024.png</image:loc>
+			<image:loc>./wp-content/uploads/2019/08/EnglishEspresso_Logo-1024x1024.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2019/08/Filva_Logo.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2019/08/Filva_Logo.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2019/08/Minu%CC%80_LaBoutique_Logo.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2019/08/Minu%CC%80_LaBoutique_Logo.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2016/08/Verdepiu%CC%80Logo-1024x1024.png</image:loc>
+			<image:loc>./wp-content/uploads/2016/08/Verdepiu%CC%80Logo-1024x1024.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2017/12/Logo-1024x1024.png</image:loc>
+			<image:loc>./wp-content/uploads/2017/12/Logo-1024x1024.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2017/12/EnotecaPetriniLogo-1024x1024.png</image:loc>
+			<image:loc>./wp-content/uploads/2017/12/EnotecaPetriniLogo-1024x1024.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2017/12/PortaSanBenedetto_Logo-1024x1024.png</image:loc>
+			<image:loc>./wp-content/uploads/2017/12/PortaSanBenedetto_Logo-1024x1024.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/blog/</loc>
+		<loc>./blog/index.html</loc>
 		<lastmod>2021-01-11T00:55:08+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2020/12/Come-installare-Hackintosh-MacOS-PC.png</image:loc>
+			<image:loc>./wp-content/uploads/2020/12/Come-installare-Hackintosh-MacOS-PC.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2019/08/Wide-GitHub-Preview.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2019/08/Wide-GitHub-Preview.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2016/09/UbuntuRunitPreview.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2016/09/UbuntuRunitPreview.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2016/08/AccessRuntimePreview.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2016/08/AccessRuntimePreview.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2016/07/InsettiMonitorPreview.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2016/07/InsettiMonitorPreview.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2016/07/InternalServerErrorPreview.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2016/07/InternalServerErrorPreview.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/contatti/</loc>
+		<loc>./contatti/index.html</loc>
 		<lastmod>2022-10-03T20:49:13+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2021/01/Image_13-1024x1024.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2021/01/Image_13-1024x1024.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
