@@ -1,303 +1,304 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//test.minulaboutique.com/wordpress/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>./tag/500-internal-server-error/index.html</loc>
+		<loc>https://visiomultimedia.com/tag/500-internal-server-error/</loc>
 		<lastmod>2016-06-12T19:10:11+00:00</lastmod>
 	</url>
 	<url>
-		<loc>./tag/android/index.html</loc>
+		<loc>https://visiomultimedia.com/tag/android/</loc>
 		<lastmod>2021-01-10T20:19:44+00:00</lastmod>
 	</url>
 	<url>
-		<loc>./tag/aruba/index.html</loc>
+		<loc>https://visiomultimedia.com/tag/aruba/</loc>
 		<lastmod>2016-06-12T19:10:11+00:00</lastmod>
 	</url>
 	<url>
-		<loc>./tag/christopher-nolan/index.html</loc>
+		<loc>https://visiomultimedia.com/tag/christopher-nolan/</loc>
 		<lastmod>2015-01-19T16:03:50+00:00</lastmod>
 	</url>
 	<url>
-		<loc>./tag/come-installare-eclipse/index.html</loc>
+		<loc>https://visiomultimedia.com/tag/come-installare-eclipse/</loc>
 		<lastmod>2022-07-26T09:11:26+00:00</lastmod>
 	</url>
 	<url>
-		<loc>./tag/conferma-di-lettura/index.html</loc>
+		<loc>https://visiomultimedia.com/tag/conferma-di-lettura/</loc>
 		<lastmod>2021-01-10T20:19:44+00:00</lastmod>
 	</url>
 	<url>
-		<loc>./tag/configurare-eclipse/index.html</loc>
+		<loc>https://visiomultimedia.com/tag/configurare-eclipse/</loc>
 		<lastmod>2022-07-26T09:11:26+00:00</lastmod>
 	</url>
 	<url>
-		<loc>./tag/conta-vocali-e-consonanti/index.html</loc>
+		<loc>https://visiomultimedia.com/tag/conta-vocali-e-consonanti/</loc>
 		<lastmod>2020-09-13T23:01:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>./tag/daemon-run/index.html</loc>
+		<loc>https://visiomultimedia.com/tag/daemon-run/</loc>
 		<lastmod>2019-08-26T18:57:49+00:00</lastmod>
 	</url>
 	<url>
-		<loc>./tag/database/index.html</loc>
+		<loc>https://visiomultimedia.com/tag/database/</loc>
 		<lastmod>2019-08-25T21:42:55+00:00</lastmod>
 	</url>
 	<url>
-		<loc>./tag/disattivare-spunte-blu-iphone/index.html</loc>
+		<loc>https://visiomultimedia.com/tag/disattivare-spunte-blu-iphone/</loc>
 		<lastmod>2021-01-10T20:19:44+00:00</lastmod>
 	</url>
 	<url>
-		<loc>./tag/driver/index.html</loc>
+		<loc>https://visiomultimedia.com/tag/driver/</loc>
 		<lastmod>2019-08-25T21:53:49+00:00</lastmod>
 	</url>
 	<url>
-		<loc>./tag/eclipse-c-c/index.html</loc>
+		<loc>https://visiomultimedia.com/tag/eclipse-c-c/</loc>
 		<lastmod>2022-07-26T09:11:26+00:00</lastmod>
 	</url>
 	<url>
-		<loc>./tag/eclipse-luna/index.html</loc>
+		<loc>https://visiomultimedia.com/tag/eclipse-luna/</loc>
 		<lastmod>2022-07-26T09:11:26+00:00</lastmod>
 	</url>
 	<url>
-		<loc>./tag/error-code-1/index.html</loc>
+		<loc>https://visiomultimedia.com/tag/error-code-1/</loc>
 		<lastmod>2019-08-26T18:57:49+00:00</lastmod>
 	</url>
 	<url>
-		<loc>./tag/errore-elaborazione/index.html</loc>
+		<loc>https://visiomultimedia.com/tag/errore-elaborazione/</loc>
 		<lastmod>2019-08-26T18:57:49+00:00</lastmod>
 	</url>
 	<url>
-		<loc>./tag/esercizi-svolti-in-c/index.html</loc>
+		<loc>https://visiomultimedia.com/tag/esercizi-svolti-in-c/</loc>
 		<lastmod>2020-09-13T23:01:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>./tag/gruppo-home/index.html</loc>
+		<loc>https://visiomultimedia.com/tag/gruppo-home/</loc>
 		<lastmod>2021-01-11T00:48:15+00:00</lastmod>
 	</url>
 	<url>
-		<loc>./tag/guida-c/index.html</loc>
+		<loc>https://visiomultimedia.com/tag/guida-c/</loc>
 		<lastmod>2020-09-13T23:01:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>./tag/guida-facile-c/index.html</loc>
+		<loc>https://visiomultimedia.com/tag/guida-facile-c/</loc>
 		<lastmod>2020-09-13T23:01:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>./tag/hosting-linux/index.html</loc>
+		<loc>https://visiomultimedia.com/tag/hosting-linux/</loc>
 		<lastmod>2016-06-12T19:10:11+00:00</lastmod>
 	</url>
 	<url>
-		<loc>./tag/impossibile-trovare/index.html</loc>
+		<loc>https://visiomultimedia.com/tag/impossibile-trovare/</loc>
 		<lastmod>2019-08-25T21:42:55+00:00</lastmod>
 	</url>
 	<url>
-		<loc>./tag/insetti-nel-mac/index.html</loc>
+		<loc>https://visiomultimedia.com/tag/insetti-nel-mac/</loc>
 		<lastmod>2016-07-04T11:11:25+00:00</lastmod>
 	</url>
 	<url>
-		<loc>./tag/insetti-nel-notebook/index.html</loc>
+		<loc>https://visiomultimedia.com/tag/insetti-nel-notebook/</loc>
 		<lastmod>2016-07-04T11:11:25+00:00</lastmod>
 	</url>
 	<url>
-		<loc>./tag/insetti-nel-pc/index.html</loc>
+		<loc>https://visiomultimedia.com/tag/insetti-nel-pc/</loc>
 		<lastmod>2016-07-04T11:11:25+00:00</lastmod>
 	</url>
 	<url>
-		<loc>./tag/insetto-dentro-al-display/index.html</loc>
+		<loc>https://visiomultimedia.com/tag/insetto-dentro-al-display/</loc>
 		<lastmod>2016-07-04T11:11:25+00:00</lastmod>
 	</url>
 	<url>
-		<loc>./tag/insetto-dentro-al-monitor/index.html</loc>
+		<loc>https://visiomultimedia.com/tag/insetto-dentro-al-monitor/</loc>
 		<lastmod>2016-07-04T11:11:25+00:00</lastmod>
 	</url>
 	<url>
-		<loc>./tag/insetto-dentro-allo-schermo/index.html</loc>
+		<loc>https://visiomultimedia.com/tag/insetto-dentro-allo-schermo/</loc>
 		<lastmod>2016-07-04T11:11:25+00:00</lastmod>
 	</url>
 	<url>
-		<loc>./tag/insetto-nel-display/index.html</loc>
+		<loc>https://visiomultimedia.com/tag/insetto-nel-display/</loc>
 		<lastmod>2016-07-04T11:11:25+00:00</lastmod>
 	</url>
 	<url>
-		<loc>./tag/insetto-nel-monitor/index.html</loc>
+		<loc>https://visiomultimedia.com/tag/insetto-nel-monitor/</loc>
 		<lastmod>2016-07-04T11:11:25+00:00</lastmod>
 	</url>
 	<url>
-		<loc>./tag/insetto-nello-schermo/index.html</loc>
+		<loc>https://visiomultimedia.com/tag/insetto-nello-schermo/</loc>
 		<lastmod>2016-07-04T11:11:25+00:00</lastmod>
 	</url>
 	<url>
-		<loc>./tag/installare-eclipse-su-linux/index.html</loc>
+		<loc>https://visiomultimedia.com/tag/installare-eclipse-su-linux/</loc>
 		<lastmod>2022-07-26T09:11:26+00:00</lastmod>
 	</url>
 	<url>
-		<loc>./tag/installare-eclipse-su-mac/index.html</loc>
+		<loc>https://visiomultimedia.com/tag/installare-eclipse-su-mac/</loc>
 		<lastmod>2022-07-26T09:11:26+00:00</lastmod>
 	</url>
 	<url>
-		<loc>./tag/installare-eclipse-su-windows/index.html</loc>
+		<loc>https://visiomultimedia.com/tag/installare-eclipse-su-windows/</loc>
 		<lastmod>2022-07-26T09:11:26+00:00</lastmod>
 	</url>
 	<url>
-		<loc>./tag/installare-eclipse-su-windows-8/index.html</loc>
+		<loc>https://visiomultimedia.com/tag/installare-eclipse-su-windows-8/</loc>
 		<lastmod>2022-07-26T09:11:26+00:00</lastmod>
 	</url>
 	<url>
-		<loc>./tag/internal-server-error/index.html</loc>
+		<loc>https://visiomultimedia.com/tag/internal-server-error/</loc>
 		<lastmod>2016-06-12T19:10:11+00:00</lastmod>
 	</url>
 	<url>
-		<loc>./tag/interstellar/index.html</loc>
+		<loc>https://visiomultimedia.com/tag/interstellar/</loc>
 		<lastmod>2015-01-19T16:03:50+00:00</lastmod>
 	</url>
 	<url>
-		<loc>./tag/ios/index.html</loc>
+		<loc>https://visiomultimedia.com/tag/ios/</loc>
 		<lastmod>2021-01-10T20:19:44+00:00</lastmod>
 	</url>
 	<url>
-		<loc>./tag/iphone/index.html</loc>
+		<loc>https://visiomultimedia.com/tag/iphone/</loc>
 		<lastmod>2021-01-10T20:19:44+00:00</lastmod>
 	</url>
 	<url>
-		<loc>./tag/linux/index.html</loc>
+		<loc>https://visiomultimedia.com/tag/linux/</loc>
 		<lastmod>2019-08-26T18:57:49+00:00</lastmod>
 	</url>
 	<url>
-		<loc>./tag/microsoft-access/index.html</loc>
+		<loc>https://visiomultimedia.com/tag/microsoft-access/</loc>
 		<lastmod>2019-08-25T21:42:55+00:00</lastmod>
 	</url>
 	<url>
-		<loc>./tag/microsoft-access-2000-runtime/index.html</loc>
+		<loc>https://visiomultimedia.com/tag/microsoft-access-2000-runtime/</loc>
 		<lastmod>2019-08-25T21:42:55+00:00</lastmod>
 	</url>
 	<url>
-		<loc>./tag/miglior-browser-android/index.html</loc>
+		<loc>https://visiomultimedia.com/tag/miglior-browser-android/</loc>
 		<lastmod>2015-02-24T15:30:44+00:00</lastmod>
 	</url>
 	<url>
-		<loc>./tag/miglior-browser-apple/index.html</loc>
+		<loc>https://visiomultimedia.com/tag/miglior-browser-apple/</loc>
 		<lastmod>2015-02-24T15:30:44+00:00</lastmod>
 	</url>
 	<url>
-		<loc>./tag/miglior-browser-ios/index.html</loc>
+		<loc>https://visiomultimedia.com/tag/miglior-browser-ios/</loc>
 		<lastmod>2015-02-24T15:30:44+00:00</lastmod>
 	</url>
 	<url>
-		<loc>./tag/miglior-browser-ipad/index.html</loc>
+		<loc>https://visiomultimedia.com/tag/miglior-browser-ipad/</loc>
 		<lastmod>2015-02-24T15:30:44+00:00</lastmod>
 	</url>
 	<url>
-		<loc>./tag/miglior-browser-iphone/index.html</loc>
+		<loc>https://visiomultimedia.com/tag/miglior-browser-iphone/</loc>
 		<lastmod>2015-02-24T15:30:44+00:00</lastmod>
 	</url>
 	<url>
-		<loc>./tag/miglior-browser-mobile/index.html</loc>
+		<loc>https://visiomultimedia.com/tag/miglior-browser-mobile/</loc>
 		<lastmod>2015-02-24T15:30:44+00:00</lastmod>
 	</url>
 	<url>
-		<loc>./tag/miglior-browser-samsung/index.html</loc>
+		<loc>https://visiomultimedia.com/tag/miglior-browser-samsung/</loc>
 		<lastmod>2015-02-24T15:30:44+00:00</lastmod>
 	</url>
 	<url>
-		<loc>./tag/migliori-browser/index.html</loc>
+		<loc>https://visiomultimedia.com/tag/migliori-browser/</loc>
 		<lastmod>2015-02-24T15:30:44+00:00</lastmod>
 	</url>
 	<url>
-		<loc>./tag/notifica-di-lettura/index.html</loc>
+		<loc>https://visiomultimedia.com/tag/notifica-di-lettura/</loc>
 		<lastmod>2021-01-10T20:19:44+00:00</lastmod>
 	</url>
 	<url>
-		<loc>./tag/oscar-2015/index.html</loc>
+		<loc>https://visiomultimedia.com/tag/oscar-2015/</loc>
 		<lastmod>2015-01-19T16:03:50+00:00</lastmod>
 	</url>
 	<url>
-		<loc>./tag/pacchetti/index.html</loc>
+		<loc>https://visiomultimedia.com/tag/pacchetti/</loc>
 		<lastmod>2019-08-26T18:57:49+00:00</lastmod>
 	</url>
 	<url>
-		<loc>./tag/permissions-repair/index.html</loc>
+		<loc>https://visiomultimedia.com/tag/permissions-repair/</loc>
 		<lastmod>2016-06-12T19:10:11+00:00</lastmod>
 	</url>
 	<url>
-		<loc>./tag/programmare-con-eclipse/index.html</loc>
+		<loc>https://visiomultimedia.com/tag/programmare-con-eclipse/</loc>
 		<lastmod>2022-07-26T09:11:26+00:00</lastmod>
 	</url>
 	<url>
-		<loc>./tag/programmazione-c/index.html</loc>
+		<loc>https://visiomultimedia.com/tag/programmazione-c/</loc>
 		<lastmod>2020-09-13T23:01:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>./tag/puntatori/index.html</loc>
+		<loc>https://visiomultimedia.com/tag/puntatori/</loc>
 		<lastmod>2020-09-13T23:01:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>./tag/rimuovere-doppia-spunta-blu/index.html</loc>
+		<loc>https://visiomultimedia.com/tag/rimuovere-doppia-spunta-blu/</loc>
 		<lastmod>2021-01-10T20:19:44+00:00</lastmod>
 	</url>
 	<url>
-		<loc>./tag/rimuovere-icona/index.html</loc>
+		<loc>https://visiomultimedia.com/tag/rimuovere-icona/</loc>
 		<lastmod>2021-01-11T00:48:15+00:00</lastmod>
 	</url>
 	<url>
-		<loc>./tag/riparazione-permessi/index.html</loc>
+		<loc>https://visiomultimedia.com/tag/riparazione-permessi/</loc>
 		<lastmod>2016-06-12T19:10:11+00:00</lastmod>
 	</url>
 	<url>
-		<loc>./tag/ripasso-c/index.html</loc>
+		<loc>https://visiomultimedia.com/tag/ripasso-c/</loc>
 		<lastmod>2020-09-13T23:01:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>./tag/runtime/index.html</loc>
+		<loc>https://visiomultimedia.com/tag/runtime/</loc>
 		<lastmod>2019-08-25T21:42:55+00:00</lastmod>
 	</url>
 	<url>
-		<loc>./tag/scheda-video/index.html</loc>
+		<loc>https://visiomultimedia.com/tag/scheda-video/</loc>
 		<lastmod>2019-08-25T21:53:49+00:00</lastmod>
 	</url>
 	<url>
-		<loc>./tag/spunte-blu/index.html</loc>
+		<loc>https://visiomultimedia.com/tag/spunte-blu/</loc>
 		<lastmod>2021-01-10T20:19:44+00:00</lastmod>
 	</url>
 	<url>
-		<loc>./tag/spunte-blu-whatsapp/index.html</loc>
+		<loc>https://visiomultimedia.com/tag/spunte-blu-whatsapp/</loc>
 		<lastmod>2021-01-10T20:19:44+00:00</lastmod>
 	</url>
 	<url>
-		<loc>./tag/system-mdw/index.html</loc>
+		<loc>https://visiomultimedia.com/tag/system-mdw/</loc>
 		<lastmod>2019-08-25T21:42:55+00:00</lastmod>
 	</url>
 	<url>
-		<loc>./tag/togliere-spunta-blu/index.html</loc>
+		<loc>https://visiomultimedia.com/tag/togliere-spunta-blu/</loc>
 		<lastmod>2021-01-10T20:19:44+00:00</lastmod>
 	</url>
 	<url>
-		<loc>./tag/tron/index.html</loc>
+		<loc>https://visiomultimedia.com/tag/tron/</loc>
 		<lastmod>2015-01-19T16:03:50+00:00</lastmod>
 	</url>
 	<url>
-		<loc>./tag/ubuntu-16-04/index.html</loc>
+		<loc>https://visiomultimedia.com/tag/ubuntu-16-04/</loc>
 		<lastmod>2019-08-26T18:57:49+00:00</lastmod>
 	</url>
 	<url>
-		<loc>./tag/whatsapp/index.html</loc>
+		<loc>https://visiomultimedia.com/tag/whatsapp/</loc>
 		<lastmod>2021-01-10T20:19:44+00:00</lastmod>
 	</url>
 	<url>
-		<loc>./tag/windows-10/index.html</loc>
+		<loc>https://visiomultimedia.com/tag/windows-10/</loc>
 		<lastmod>2022-07-26T09:11:26+00:00</lastmod>
 	</url>
 	<url>
-		<loc>./tag/windows-8/index.html</loc>
+		<loc>https://visiomultimedia.com/tag/windows-8/</loc>
 		<lastmod>2021-01-11T00:48:15+00:00</lastmod>
 	</url>
 	<url>
-		<loc>./tag/windows-8-1/index.html</loc>
+		<loc>https://visiomultimedia.com/tag/windows-8-1/</loc>
 		<lastmod>2021-01-11T00:48:15+00:00</lastmod>
 	</url>
 	<url>
-		<loc>./tag/windows-vista/index.html</loc>
+		<loc>https://visiomultimedia.com/tag/windows-vista/</loc>
 		<lastmod>2019-08-25T21:42:55+00:00</lastmod>
 	</url>
 	<url>
-		<loc>./tag/wordpress/index.html</loc>
+		<loc>https://visiomultimedia.com/tag/wordpress/</loc>
 		<lastmod>2016-06-12T19:10:11+00:00</lastmod>
 	</url>
 </urlset>
+<!-- XML Sitemap generated by Yoast SEO -->
