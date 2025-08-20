@@ -1,303 +1,303 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//test.minulaboutique.com/wordpress/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>/tag/500-internal-server-error/</loc>
+		<loc>./tag/500-internal-server-error/index.html</loc>
 		<lastmod>2025-08-20T09:43:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/android/</loc>
+		<loc>./tag/android/index.html</loc>
 		<lastmod>2025-08-20T09:43:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/aruba/</loc>
+		<loc>./tag/aruba/index.html</loc>
 		<lastmod>2025-08-20T09:43:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/christopher-nolan/</loc>
+		<loc>./tag/christopher-nolan/index.html</loc>
 		<lastmod>2025-08-20T09:43:55+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/come-installare-eclipse/</loc>
+		<loc>./tag/come-installare-eclipse/index.html</loc>
 		<lastmod>2025-08-20T09:43:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/conferma-di-lettura/</loc>
+		<loc>./tag/conferma-di-lettura/index.html</loc>
 		<lastmod>2025-08-20T09:43:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/configurare-eclipse/</loc>
+		<loc>./tag/configurare-eclipse/index.html</loc>
 		<lastmod>2025-08-20T09:43:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/conta-vocali-e-consonanti/</loc>
+		<loc>./tag/conta-vocali-e-consonanti/index.html</loc>
 		<lastmod>2025-08-20T09:43:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/daemon-run/</loc>
+		<loc>./tag/daemon-run/index.html</loc>
 		<lastmod>2025-08-20T09:43:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/database/</loc>
+		<loc>./tag/database/index.html</loc>
 		<lastmod>2025-08-20T13:36:42+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/disattivare-spunte-blu-iphone/</loc>
+		<loc>./tag/disattivare-spunte-blu-iphone/index.html</loc>
 		<lastmod>2025-08-20T09:43:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/driver/</loc>
+		<loc>./tag/driver/index.html</loc>
 		<lastmod>2025-08-20T09:43:55+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/eclipse-c-c/</loc>
+		<loc>./tag/eclipse-c-c/index.html</loc>
 		<lastmod>2025-08-20T09:43:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/eclipse-luna/</loc>
+		<loc>./tag/eclipse-luna/index.html</loc>
 		<lastmod>2025-08-20T09:43:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/error-code-1/</loc>
+		<loc>./tag/error-code-1/index.html</loc>
 		<lastmod>2025-08-20T09:43:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/errore-elaborazione/</loc>
+		<loc>./tag/errore-elaborazione/index.html</loc>
 		<lastmod>2025-08-20T09:43:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/esercizi-svolti-in-c/</loc>
+		<loc>./tag/esercizi-svolti-in-c/index.html</loc>
 		<lastmod>2025-08-20T09:43:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/gruppo-home/</loc>
+		<loc>./tag/gruppo-home/index.html</loc>
 		<lastmod>2025-08-20T09:43:55+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/guida-c/</loc>
+		<loc>./tag/guida-c/index.html</loc>
 		<lastmod>2025-08-20T09:43:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/guida-facile-c/</loc>
+		<loc>./tag/guida-facile-c/index.html</loc>
 		<lastmod>2025-08-20T09:43:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/hosting-linux/</loc>
+		<loc>./tag/hosting-linux/index.html</loc>
 		<lastmod>2025-08-20T09:43:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/impossibile-trovare/</loc>
+		<loc>./tag/impossibile-trovare/index.html</loc>
 		<lastmod>2025-08-20T13:36:42+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/insetti-nel-mac/</loc>
+		<loc>./tag/insetti-nel-mac/index.html</loc>
 		<lastmod>2025-08-20T09:43:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/insetti-nel-notebook/</loc>
+		<loc>./tag/insetti-nel-notebook/index.html</loc>
 		<lastmod>2025-08-20T09:43:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/insetti-nel-pc/</loc>
+		<loc>./tag/insetti-nel-pc/index.html</loc>
 		<lastmod>2025-08-20T09:43:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/insetto-dentro-al-display/</loc>
+		<loc>./tag/insetto-dentro-al-display/index.html</loc>
 		<lastmod>2025-08-20T09:43:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/insetto-dentro-al-monitor/</loc>
+		<loc>./tag/insetto-dentro-al-monitor/index.html</loc>
 		<lastmod>2025-08-20T09:43:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/insetto-dentro-allo-schermo/</loc>
+		<loc>./tag/insetto-dentro-allo-schermo/index.html</loc>
 		<lastmod>2025-08-20T09:43:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/insetto-nel-display/</loc>
+		<loc>./tag/insetto-nel-display/index.html</loc>
 		<lastmod>2025-08-20T09:43:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/insetto-nel-monitor/</loc>
+		<loc>./tag/insetto-nel-monitor/index.html</loc>
 		<lastmod>2025-08-20T09:43:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/insetto-nello-schermo/</loc>
+		<loc>./tag/insetto-nello-schermo/index.html</loc>
 		<lastmod>2025-08-20T09:43:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/installare-eclipse-su-linux/</loc>
+		<loc>./tag/installare-eclipse-su-linux/index.html</loc>
 		<lastmod>2025-08-20T09:43:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/installare-eclipse-su-mac/</loc>
+		<loc>./tag/installare-eclipse-su-mac/index.html</loc>
 		<lastmod>2025-08-20T09:43:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/installare-eclipse-su-windows/</loc>
+		<loc>./tag/installare-eclipse-su-windows/index.html</loc>
 		<lastmod>2025-08-20T09:43:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/installare-eclipse-su-windows-8/</loc>
+		<loc>./tag/installare-eclipse-su-windows-8/index.html</loc>
 		<lastmod>2025-08-20T09:43:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/internal-server-error/</loc>
+		<loc>./tag/internal-server-error/index.html</loc>
 		<lastmod>2025-08-20T09:43:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/interstellar/</loc>
+		<loc>./tag/interstellar/index.html</loc>
 		<lastmod>2025-08-20T09:43:55+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/ios/</loc>
+		<loc>./tag/ios/index.html</loc>
 		<lastmod>2025-08-20T09:43:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/iphone/</loc>
+		<loc>./tag/iphone/index.html</loc>
 		<lastmod>2025-08-20T09:43:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/linux/</loc>
+		<loc>./tag/linux/index.html</loc>
 		<lastmod>2025-08-20T09:43:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/microsoft-access/</loc>
+		<loc>./tag/microsoft-access/index.html</loc>
 		<lastmod>2025-08-20T13:36:42+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/microsoft-access-2000-runtime/</loc>
+		<loc>./tag/microsoft-access-2000-runtime/index.html</loc>
 		<lastmod>2025-08-20T13:36:42+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/miglior-browser-android/</loc>
+		<loc>./tag/miglior-browser-android/index.html</loc>
 		<lastmod>2025-08-20T09:43:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/miglior-browser-apple/</loc>
+		<loc>./tag/miglior-browser-apple/index.html</loc>
 		<lastmod>2025-08-20T09:43:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/miglior-browser-ios/</loc>
+		<loc>./tag/miglior-browser-ios/index.html</loc>
 		<lastmod>2025-08-20T09:43:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/miglior-browser-ipad/</loc>
+		<loc>./tag/miglior-browser-ipad/index.html</loc>
 		<lastmod>2025-08-20T09:43:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/miglior-browser-iphone/</loc>
+		<loc>./tag/miglior-browser-iphone/index.html</loc>
 		<lastmod>2025-08-20T09:43:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/miglior-browser-mobile/</loc>
+		<loc>./tag/miglior-browser-mobile/index.html</loc>
 		<lastmod>2025-08-20T09:43:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/miglior-browser-samsung/</loc>
+		<loc>./tag/miglior-browser-samsung/index.html</loc>
 		<lastmod>2025-08-20T09:43:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/migliori-browser/</loc>
+		<loc>./tag/migliori-browser/index.html</loc>
 		<lastmod>2025-08-20T09:43:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/notifica-di-lettura/</loc>
+		<loc>./tag/notifica-di-lettura/index.html</loc>
 		<lastmod>2025-08-20T09:43:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/oscar-2015/</loc>
+		<loc>./tag/oscar-2015/index.html</loc>
 		<lastmod>2025-08-20T09:43:55+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/pacchetti/</loc>
+		<loc>./tag/pacchetti/index.html</loc>
 		<lastmod>2025-08-20T09:43:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/permissions-repair/</loc>
+		<loc>./tag/permissions-repair/index.html</loc>
 		<lastmod>2025-08-20T09:43:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/programmare-con-eclipse/</loc>
+		<loc>./tag/programmare-con-eclipse/index.html</loc>
 		<lastmod>2025-08-20T09:43:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/programmazione-c/</loc>
+		<loc>./tag/programmazione-c/index.html</loc>
 		<lastmod>2025-08-20T09:43:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/puntatori/</loc>
+		<loc>./tag/puntatori/index.html</loc>
 		<lastmod>2025-08-20T09:43:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/rimuovere-doppia-spunta-blu/</loc>
+		<loc>./tag/rimuovere-doppia-spunta-blu/index.html</loc>
 		<lastmod>2025-08-20T09:43:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/rimuovere-icona/</loc>
+		<loc>./tag/rimuovere-icona/index.html</loc>
 		<lastmod>2025-08-20T09:43:55+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/riparazione-permessi/</loc>
+		<loc>./tag/riparazione-permessi/index.html</loc>
 		<lastmod>2025-08-20T09:43:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/ripasso-c/</loc>
+		<loc>./tag/ripasso-c/index.html</loc>
 		<lastmod>2025-08-20T09:43:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/runtime/</loc>
+		<loc>./tag/runtime/index.html</loc>
 		<lastmod>2025-08-20T13:36:42+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/scheda-video/</loc>
+		<loc>./tag/scheda-video/index.html</loc>
 		<lastmod>2025-08-20T09:43:55+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/spunte-blu/</loc>
+		<loc>./tag/spunte-blu/index.html</loc>
 		<lastmod>2025-08-20T09:43:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/spunte-blu-whatsapp/</loc>
+		<loc>./tag/spunte-blu-whatsapp/index.html</loc>
 		<lastmod>2025-08-20T09:43:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/system-mdw/</loc>
+		<loc>./tag/system-mdw/index.html</loc>
 		<lastmod>2025-08-20T13:36:42+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/togliere-spunta-blu/</loc>
+		<loc>./tag/togliere-spunta-blu/index.html</loc>
 		<lastmod>2025-08-20T09:43:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/tron/</loc>
+		<loc>./tag/tron/index.html</loc>
 		<lastmod>2025-08-20T09:43:55+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/ubuntu-16-04/</loc>
+		<loc>./tag/ubuntu-16-04/index.html</loc>
 		<lastmod>2025-08-20T09:43:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/whatsapp/</loc>
+		<loc>./tag/whatsapp/index.html</loc>
 		<lastmod>2025-08-20T09:43:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/windows-10/</loc>
+		<loc>./tag/windows-10/index.html</loc>
 		<lastmod>2025-08-20T09:43:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/windows-8/</loc>
+		<loc>./tag/windows-8/index.html</loc>
 		<lastmod>2025-08-20T09:43:55+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/windows-8-1/</loc>
+		<loc>./tag/windows-8-1/index.html</loc>
 		<lastmod>2025-08-20T09:43:55+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/windows-vista/</loc>
+		<loc>./tag/windows-vista/index.html</loc>
 		<lastmod>2025-08-20T13:36:42+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/wordpress/</loc>
+		<loc>./tag/wordpress/index.html</loc>
 		<lastmod>2025-08-20T09:43:54+00:00</lastmod>
 	</url>
 </urlset>
