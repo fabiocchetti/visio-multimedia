@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//test.minulaboutique.com/wordpress/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
-		<loc>./post-sitemap.xml</loc>
+		<loc>https://visiomultimedia.com/post-sitemap.xml</loc>
 		<lastmod>2025-08-20T13:36:42+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>./page-sitemap.xml</loc>
-		<lastmod>2025-08-20T15:19:37+00:00</lastmod>
+		<loc>https://visiomultimedia.com/page-sitemap.xml</loc>
+		<lastmod>2025-08-25T10:49:18+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>./ssp-form-sitemap.xml</loc>
+		<loc>https://visiomultimedia.com/ssp-form-sitemap.xml</loc>
 		<lastmod>2025-08-20T20:39:13+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>./portfolio-sitemap.xml</loc>
+		<loc>https://visiomultimedia.com/portfolio-sitemap.xml</loc>
 		<lastmod>2025-08-20T20:10:50+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>./category-sitemap.xml</loc>
+		<loc>https://visiomultimedia.com/category-sitemap.xml</loc>
 		<lastmod>2025-08-20T13:36:42+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>./post_tag-sitemap.xml</loc>
+		<loc>https://visiomultimedia.com/post_tag-sitemap.xml</loc>
 		<lastmod>2025-08-20T13:36:42+00:00</lastmod>
 	</sitemap>
 </sitemapindex>
