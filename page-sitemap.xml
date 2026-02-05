@@ -11,13 +11,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/privacy-policy/</loc>
-		<lastmod>2019-09-04T10:32:45+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2019/09/hidden_email.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/contatti/</loc>
 		<lastmod>2022-10-03T20:49:13+00:00</lastmod>
 		<image:image>
@@ -93,6 +86,13 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2017/12/logo-1024x1024.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/privacy/</loc>
+		<lastmod>2026-02-05T12:00:33+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/09/hidden_email.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
